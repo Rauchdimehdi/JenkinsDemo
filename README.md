@@ -1,3 +1,3 @@
-# maven-project
+# Jenkins and Maven project
 
-Simple Maven Project
+Creating a CI/CD Pipeline using Jenkins and Maven 
